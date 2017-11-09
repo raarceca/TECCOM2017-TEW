@@ -1,0 +1,24 @@
+Grupo #5
+
+-> 1) Control de existencias (Stock)   *** Elegido!!!***
+2) Catalogo de Proveedores
+
+
+1) Cuenta de GitHub -> raarceca
+Resolver el problema en 3 pasos.
+
+2) Objetivo: Garantizar el avastecimiento de productos para mantener el flujo normal de consumo del negocio.
+3) 
+
+Cliente: Encargado de Bodega
+
+Minimo y maximo de producto
+Cantidad de existencias
+Alerta de existencia a proveeduria
+Alerta de productos con poca rotacion.
+Generacion de orden de compra a proveeduria
+
+Solucion: Generacion de un dashboard con el reporte del scope anterior.
+
+
+
